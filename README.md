@@ -1,0 +1,2 @@
+# object_detection_using_YOLO
+This repository showcases my exploration of object detection using YOLO. It includes a final project—a car counter system that tracks the number of cars passing a road section. The repository features step-by-step implementation and code for this car counting application.
